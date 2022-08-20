@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Tsiporenko
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently working on my Comptia A+ certification and IBM data engineering certification
+- 👀 I’m interested in cloud/data engineering
+- 🌱 I’m currently working on my IBM data engineering certification
 - 💞️ I’m looking to collaborate on learning to code/ data engineering
 - 📫 How to reach me atsiporenko@gmail.com
 
